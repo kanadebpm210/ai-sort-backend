@@ -1,0 +1,6 @@
+ultralytics
+flask
+requests
+pillow
+torch
+torchvision
